@@ -12,6 +12,4 @@ def comingsoon(url):
         print(i.get_text())
         print("\n")
 
-
-
 comingsoon('https://www.fandango.com/')
